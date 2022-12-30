@@ -1,0 +1,104 @@
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe.config
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Personel Takip.pdb
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csprojAssemblyReference.cache
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form1.resources
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Properties.Resources.resources
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.GenerateResource.cache
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.CoreCompileInputs.cache
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.exe
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.pdb
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Google.Protobuf.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\MySql.Data.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Renci.SshNet.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\System.Buffers.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\System.Memory.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Zstandard.Net.dll
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Google.Protobuf.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\MySql.Data.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\Renci.SshNet.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\System.Buffers.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\System.Memory.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BTMZ\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.CopyComplete
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.csprojAssemblyReference.cache
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel_Takip.Form1.resources
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel_Takip.Properties.Resources.resources
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.csproj.GenerateResource.cache
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.csproj.CoreCompileInputs.cache
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.exe
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.pdb
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Personel Takip.exe.config
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Personel Takip.exe
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Personel Takip.pdb
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Google.Protobuf.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\MySql.Data.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Renci.SshNet.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\System.Buffers.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\System.Memory.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Zstandard.Net.dll
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Google.Protobuf.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\MySql.Data.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\Renci.SshNet.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\System.Buffers.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\System.Memory.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.csproj.CopyComplete
+C:\Users\BTMZ\Desktop\VS_01\Personel Kart Okuma\Personel Takip\obj\Debug\Personel_Takip.Form2.resources
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Personel Takip.exe.config
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Personel Takip.exe
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Personel Takip.pdb
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Google.Protobuf.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\MySql.Data.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Renci.SshNet.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\System.Buffers.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\System.Memory.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Zstandard.Net.dll
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Google.Protobuf.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\MySql.Data.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\Renci.SshNet.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\System.Buffers.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\System.Memory.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.csproj.AssemblyReference.cache
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel_Takip.Form1.resources
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel_Takip.Form2.resources
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel_Takip.Properties.Resources.resources
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.csproj.GenerateResource.cache
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.csproj.CoreCompileInputs.cache
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.csproj.CopyComplete
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.exe
+C:\Users\okN\Desktop\Personel Kart Okuma\Personel Takip\obj\Debug\Personel Takip.pdb
